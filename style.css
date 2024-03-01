@@ -1,0 +1,43 @@
+body{
+    font-family: Arial,Sans-serif;
+    margin :0 ;
+    padding:0 ;
+    background-color: #f0eef7;
+}
+header{
+    background-color: #000137;
+    color:#fff;
+    text-align: center;
+    padding: 1em;
+}
+nav{
+    background-color: #000137;
+    color: #fff;
+    text-align: center;
+    padding: 0.5 em;
+}
+nav a{
+    color: #fff;
+    text-decoration: none;
+    padding: 1em;
+    margin: 0 1em;
+}
+section{
+    padding:2 em;
+}
+
+.scroll-container{
+    width:300px;
+    height:400px;
+    border: 2px solid #ccc;
+    overflow-y: auto;
+}
+.scroll-container{
+    padding: 10px;
+}
+.scroll-container{
+    width:300px;
+    height:400px;
+    border: 2px solid #ccc;
+    overflow-y: auto;
+}
